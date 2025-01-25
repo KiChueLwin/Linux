@@ -38,3 +38,13 @@ mv to rename or move a file
 cp to copy a file
 
 /////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Directory Permission	Permissible action(s)
+r	- List directory contents using ls command
+w  - 	Add or remove files or directories
+x	  -  Enter directory using cd command
+
+///////////////////////////////////////////////////////////////////////
