@@ -6,7 +6,7 @@ Navigating and working with directories
 .mkdir - make directory 
 .cd - change directory 
 .rmdir - remove directory 
-
+/////////////////////////////////////////////////////////////////////////
 
 Printing file and string contents
 
@@ -15,7 +15,7 @@ Printing file and string contents
 .head - print first N lines of files
 .tail - print last N lines of files
 .echo - print string or variable value 
-
+/////////////////////////////////////////////////////////////////////////
 
 Networking 
 .hostname - print hostname
@@ -23,3 +23,18 @@ Networking
 .ifconfig - display or configure system network interfaces 
 .curl - display contents of file at URL 
 .wget - download file from URL 
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+pwd to get the location of your present working directory
+ls to list the files and directories within a directory
+mkdir to create a new directory
+cd to change your present working directory
+touch to create a new file
+find to search for and locate files
+rm to remove a file
+mv to rename or move a file
+cp to copy a file
+
+/////////////////////////////////////////////////////////////////////////////
