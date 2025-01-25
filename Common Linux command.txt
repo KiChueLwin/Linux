@@ -48,3 +48,8 @@ w  - 	Add or remove files or directories
 x	  -  Enter directory using cd command
 
 ///////////////////////////////////////////////////////////////////////
+
+Option	Description
+r, w, x	Permissions: read, write, and execute
+u,g, o 	User categories: user, group, and all others
++, -	Operations: grant and revoke
