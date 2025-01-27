@@ -1,0 +1,10 @@
+tar  ----allows you to pack multiple files and directories into a single archive file
+zip -----allows you to compress files
+unzip ----allows you to extract files
+
+Option	Description
+-c	Create new archive file
+-v	Verbosely list files processed
+-f	Archive file name
+
+/////////////////////////////////////////////////////////////////////////////////////
